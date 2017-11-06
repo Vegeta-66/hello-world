@@ -22,3 +22,11 @@ https://lightofhexagram.wordpress.com/2016/09/15/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%
 網至相關的內容也提到許多設計模式的探討
 是值得一再回味的好地方!
 
+
+
+# Some Useful link
+Udemy課程 - JavaScript: Understanding the Weird Parts
+https://www.udemy.com/understand-javascript/#curriculum
+
+GitBoob about Front-end
+https://frontendmasters.com/books/front-end-handbook/2017/what-is-a-FD.html
