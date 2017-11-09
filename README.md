@@ -30,3 +30,6 @@ https://www.udemy.com/understand-javascript/#curriculum
 
 GitBoob about Front-end
 https://frontendmasters.com/books/front-end-handbook/2017/what-is-a-FD.html
+
+python 
+https://github.com/ywchiu/fetnetpy
